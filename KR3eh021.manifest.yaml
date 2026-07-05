@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh021_000.yaml, hash: 'sha256:48ec07b500a531abad7891c1815452bac543d687f8668ee072b3b324773da4b0'}
+  - {seq: 0, filename: KR3eh021_000.yaml, hash: 'sha256:6ccda1ff0aa04701b7b4f2a5d0f13973183d51aff5aa231d71dd0fb6aa48ff66'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh021_000.markers.yaml, hash: 'sha256:2509d56fd6c0507e1de500d45b56fc0db5316953f5be61e721288fc1539835fd'}
+  - {seq: 0, role: markers, filename: assets/KR3eh021_000.markers.yaml, hash: 'sha256:a3f1478b8c8bb90d0736cf906615800b03111c54bbcbf390222c3b02f6c47cc3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -821,7 +821,4 @@ table_of_contents:
   label: 骨梗
   type: section
   level: 1
-hash: sha256:89d87254a88e3ad054188844f6052f7bb7399865e96742062e17e5189e203c41
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:96224afb927eb0ef62ff7993d56b5237bff1ae3f61adc079aa95219c65c7b40c
