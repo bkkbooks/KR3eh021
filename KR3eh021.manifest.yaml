@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh021/v1
 canonical_location: https://kanripo.org/bkk/KR3eh021/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 雜病治例
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh021_000.yaml, hash: 'sha256:6ccda1ff0aa04701b7b4f2a5d0f13973183d51aff5aa231d71dd0fb6aa48ff66'}
+  - {seq: 0, filename: KR3eh021_000.yaml, hash: 'sha256:6d4109c67e59a0551258194f3907585d72e495111681a567ec4711965cbeb966'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh021_000.markers.yaml, hash: 'sha256:a3f1478b8c8bb90d0736cf906615800b03111c54bbcbf390222c3b02f6c47cc3'}
+  - {seq: 0, role: markers, filename: assets/KR3eh021_000.markers.yaml, hash: 'sha256:49ac66ffe00968ff713bdf199ba40e00a888333c353991042983d3bbc00bfe28'}
 table_of_contents:
 - ref:
     seq: 0
@@ -821,4 +821,7 @@ table_of_contents:
   label: 骨梗
   type: section
   level: 1
-hash: sha256:96224afb927eb0ef62ff7993d56b5237bff1ae3f61adc079aa95219c65c7b40c
+hash: sha256:286de9d846c60e3594918b51d4dd75a2b0d2fb93d75b7ce17799df3e898f68c7
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
