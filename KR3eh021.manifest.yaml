@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh021_000.yaml, hash: 'sha256:6d4109c67e59a0551258194f3907585d72e495111681a567ec4711965cbeb966'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh021_000.markers.yaml, hash: 'sha256:49ac66ffe00968ff713bdf199ba40e00a888333c353991042983d3bbc00bfe28'}
+  - {seq: 0, role: markers, filename: assets/KR3eh021_000.markers.yaml, hash: 'sha256:1ec27ae9fbfae024b3134fd363e262297eea6959ab4906742cc794feab8b0147'}
 table_of_contents:
 - ref:
     seq: 0
@@ -821,7 +821,7 @@ table_of_contents:
   label: 骨梗
   type: section
   level: 1
-hash: sha256:286de9d846c60e3594918b51d4dd75a2b0d2fb93d75b7ce17799df3e898f68c7
+hash: sha256:2801162c5274596b7eae8b4d4273f31266c1bd5373b77dfb68e93a4f8d812d83
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

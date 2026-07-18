@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eh021_000-jc.yaml, hash: 'sha256:6ccda1ff0aa04701b7b4f2a5d0f13973183d51aff5aa231d71dd0fb6aa48ff66'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh021_000-jc.markers.yaml, hash: 'sha256:d8ffbf3988290a7444edcc4a9a727cce9b155c382186c1617b511ecb61f59fb6'}
+  - {seq: 0, role: markers, filename: assets/KR3eh021_000-jc.markers.yaml, hash: 'sha256:ef24951c9dc9ac8e09d0342cdfa1597bb8f75b5c6ed281901a37802ca10dac23'}
 table_of_contents:
 - ref:
     seq: 0
@@ -821,4 +821,4 @@ table_of_contents:
   label: 骨梗
   type: section
   level: 1
-hash: sha256:cfdea38ee443519a17c340d24c5a45eb64c097a6a5be886f70b0014457fab5d5
+hash: sha256:c056ccc689d7e5f933277dd9d1183841dc867b5067d7db7344c13c8bcf2a63e4
